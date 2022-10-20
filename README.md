@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Recoil, typescript 를 이용한 Todo-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
